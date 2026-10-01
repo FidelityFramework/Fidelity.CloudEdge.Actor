@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+**/TestResults/
+artifacts/
+.fable/
+node_modules/

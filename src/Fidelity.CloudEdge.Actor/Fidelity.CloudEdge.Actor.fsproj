@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Description>Portable actor contract scaffold for CloudEdge and native Clef interoperability.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Identity.fs" />
+    <Compile Include="Lifecycle.fs" />
+    <Compile Include="Protocol.fs" />
+  </ItemGroup>
+</Project>
